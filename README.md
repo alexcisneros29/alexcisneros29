@@ -1,4 +1,4 @@
-## Hi there 👋
+## This repository contains files for CIS300 Project Assignments
 
 <!--
 **alexcisneros29/alexcisneros29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
